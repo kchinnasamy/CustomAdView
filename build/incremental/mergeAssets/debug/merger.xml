@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="unspecified" >
+        <source path="/home/kannan/custom_ad_view/CustomAdView/build/exploded-aar/custom_ad_view/appcompat_v7/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/kannan/custom_ad_view/CustomAdView/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/kannan/custom_ad_view/CustomAdView/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
